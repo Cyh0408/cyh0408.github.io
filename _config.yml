@@ -5,7 +5,7 @@ header-img: img/post-bg-desk.jpg
 email: cyh731835@163.com
 description: "个人博客."
 keyword: "Yuhang Chen, 陈宇航"
-url: "http://yuhangchen.github.io"          # your host, for absolute URL
+url: "https://yuhangchen.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Sidebar settings
