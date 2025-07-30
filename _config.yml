@@ -1,6 +1,6 @@
 # Site settings
-title: CYH Blog
-SEOTitle: CYH的博客 | CYH Blog
+title: cyh Blog
+SEOTitle: cyh的博客 | cyh Blog
 header-img: img/post-bg-desk.jpg
 email: cyh731835@163.com
 description: "个人博客."
@@ -11,7 +11,7 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "这是侧边栏"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+#sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
@@ -60,7 +60,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: true    #是否开启Gitalk评论
+  enable: false    #是否开启Gitalk评论
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
@@ -96,18 +96,18 @@ service-worker: true
 
 
 # Friends
-friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
+#friends: [
+ #   {
+  #      title: "WY",
+   #     href: "http://zhengwuyang.com"
+    #},{
+     #   title: "简书·BY",
+      #  href: "http://www.jianshu.com/u/e71990ada2fd"
+    #},{
+     #   title: "Apple",
+      #  href: "https://apple.com"
+    #},{
+     #   title: "Apple Developer",
+      #  href: "https://developer.apple.com/"
+    #}
+#]
